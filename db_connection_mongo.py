@@ -2,7 +2,7 @@
 # AUTHOR: Brandon Diep
 # FILENAME: db_connection_mongo.py
 # SPECIFICATION: Connects to my DB and performs CRUD operations
-# FOR: CS 4250- Assignment #2
+# FOR: CS 5180 - Assignment #2
 # TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 

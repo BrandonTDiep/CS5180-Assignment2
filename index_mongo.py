@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Brandon Diep
+# FILENAME: index_mongo.py
+# SPECIFICATION: Frontend part of the program asking user which operation they want to perform
 # FOR: CS 5180- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 
 from pymongo import MongoClient  # import mongo client to connect
